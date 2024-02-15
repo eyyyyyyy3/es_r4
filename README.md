@@ -14,3 +14,10 @@ Arduino Renesas Core: https://github.com/arduino/ArduinoCore-renesas
 BOSSA Flash Programmer [ARDUINO]: https://github.com/shumatech/BOSSA/tree/arduino
 
 arm-none-eabi toolchain: https://developer.arm.com/downloads/-/gnu-rm (you can also download it through a package manager)
+
+
+### FEATURES:
+- Really small bin sizes, thus faster uploads
+- Stone cold FSP function calls
+- BLINKING LEDS !!!
+- Clangd support
