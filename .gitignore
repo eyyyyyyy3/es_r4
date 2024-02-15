@@ -1,0 +1,11 @@
+cmake/
+logs
+*.log
+*.local
+.idea
+.DS_Store
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
